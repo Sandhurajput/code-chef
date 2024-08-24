@@ -1,3 +1,5 @@
+
+
 **My Online Meal Project**
 ==========================
 
@@ -64,17 +66,7 @@ This project is a website for a restaurant, featuring an about page, menu page, 
 * `logo.webp`: the logo image
 * `styles.css.map`: the CSS source map
 
-**Folders**
----------
 
-* `yashswani.code-workspace`: the workspace folder
-* `make game`: a separate folder for a game project
-* `Rajput`: a separate folder for another project
-
-**Settings**
-------------
-
-* `liveServer.settings.multiRootWorkspaceName`: set to "make game"
 
 **Usage**
 -----
@@ -104,5 +96,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 	+ Visual Studio Code
 	+ Live Server
 	+ GitHub
-* Special thanks to the following individuals for their contributions:
-	+ [Your Name]
